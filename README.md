@@ -4,4 +4,4 @@ Marteen's Portfolio
 
 ##Status
 
-Work in progess....
+click this [link](http://medev21.github.io/Marteen-s-Portfolio/) to view it!
